@@ -75,7 +75,7 @@ def paired():
 
 def sendnumber():
     display.clear()
-    random_number = random.randint(30,6)
+    random_number = random.randint(1,2)
     display.show(Image(
         "09990:"
         "90909:"

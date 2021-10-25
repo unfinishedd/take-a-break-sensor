@@ -2,6 +2,7 @@ from microbit import *
 import radio
 import random
 
+
 def pairing():
     radio.on()
     while True:
@@ -32,7 +33,7 @@ def pairing():
             paired()
             break
 
-
+            
 
 def paired():
     display.clear()
@@ -83,10 +84,18 @@ def recievernumber():
     sleep(10000)
     time_in_seconds = 60 * int(number_receive)
     display.scroll(time_in_seconds)
-    sleep(3000)
-
-
-
+    sleep(2000)
+    time_in_miliseconds = 1000 * int(time_in_seconds)
+    display.scroll(time_in_miliseconds)
+    sleep(2000)
+    while True:
+        if time_in_seconds == 0:
+            display.scroll("W")
+            sleep(10000)
+        display.scroll(time_in_seconds)
+        sleep(1000)
+        time_in_seconds -= 1
+        
 
 
 def startup_screen():

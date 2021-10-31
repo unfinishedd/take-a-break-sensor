@@ -1,4 +1,4 @@
-</br>  
+  
 # The Take a Break Sensor - Micro:bit Radio Sensor
 
 ## Table of contents
@@ -6,7 +6,7 @@
 * [Technologies](#technologies-used)
 * [Features](#features)
 * [Setup](#setup)
-* [How does the micro:bit radio work?](#how-does-the-micro:bit-radio-work?)
+* [How does the microbit radio work?](#how-does-the-micro:bit-radio-work?)
 * [Contact](#contact)
 
 ## General info
@@ -54,7 +54,7 @@ To run this project, you are going to need two Micro:bit V1 or Micro:bit V2's (c
 ```
 
 
-## How does the micro:bit radio work?
+## How does the microbit radio work?
 
 ### The radio module allows devices to work together via simple wireless networks.
 

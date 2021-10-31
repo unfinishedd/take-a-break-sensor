@@ -1,4 +1,4 @@
-   
+/n   
 # The Take a Break Sensor - Micro:bit Radio Sensor
 
 ## Table of contents
@@ -6,7 +6,8 @@
 * [Technologies](#technologies-used)
 * [Features](#features)
 * [Setup](#setup)
-* [How does the microbit radio work?](#how-does-the-microbit-radio-work?)
+* [How does the micro:bit radio work?](#how-does-the-microbit-radio-work?)
+* [Project Status](#project-status)
 * [Contact](#contact)
 
 ## General info
@@ -71,10 +72,13 @@ To run this project, you are going to need two Micro:bit V1 or Micro:bit V2's (c
     - The default configuration is both sensible and compatible with other platforms that target the BBC micro:bit.
 
 
+## Project Status
+Project is: _in progress_. 
+
 ## Contact
 Created by [@unfinished](https://www.unfinishedd.nl)  
 Created by [@KaanSecen](https://www.kaansecen.nl)  
 
-- feel free to contact us!
+- Feel free to contact us!
 
-This project is open source and available under the Take a Break Sensor License.
+_This project is open source and available under the Take a Break Sensor License_.

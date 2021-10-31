@@ -1,4 +1,5 @@
-/n   
+   
+
 # The Take a Break Sensor - Micro:bit Radio Sensor
 
 ## Table of contents
@@ -11,12 +12,13 @@
 * [Contact](#contact)
 
 ## General info
-The Take a Break Sensor is the sensor which brings taking a break to a whole nother level.  
+The Take a Break Sensor is the bracelet which brings taking a break to a whole nother level.  
   
 We created this project with the intent of solving a problem.  
 The problem where workers behind their desks could not be able to work at their full potential because of them sitting behind their desks all day.
 
-The way we solved this problem is by using the radio feature within the micro:bit's to unite two micro:bit's together to form an connection.
+The way we solved this problem is by using the radio feature within the micro:bit's to unite the two micro:bit's together to form an connection.
+With that connection we made sure that the timing and such were
 for a perfect amount of break time and for a more efficient work time.
 
     -Provide general information about your project here.

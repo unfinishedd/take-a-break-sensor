@@ -1,4 +1,4 @@
-
+<br>  
 # The Take a Break Sensor - Micro:bit Radio Sensor
 
 ## Table of contents
@@ -7,6 +7,7 @@
 * [Features](#features)
 * [Setup](#setup)
 * [How does the micro:bit radio work?](#how-does-the-micro:bit-radio-work?)
+* [Contact](#contact)
 
 ## General info
 The Take a Break Sensor is the sensor which brings taking a break to a whole nother level.  
@@ -14,7 +15,7 @@ The Take a Break Sensor is the sensor which brings taking a break to a whole not
 We created this project with the intent of solving a problem.  
 The problem where workers behind their desks could not be able to work at their full potential because of them sitting behind their desks all day.
 
-The way we solved this problem is by using
+The way we solved this problem is by using the radio feature within the micro:bit's to unite two micro:bit's together to form an connection.
 for a perfect amount of break time and for a more efficient work time.
 
     -Provide general information about your project here.
@@ -68,3 +69,12 @@ To run this project, you are going to need two Micro:bit V1 or Micro:bit V2's (c
     - Send and receive bytes to work with arbitrary data.
     - As a convenience for children, it’s easy to send and receive messages as strings.
     - The default configuration is both sensible and compatible with other platforms that target the BBC micro:bit.
+
+
+## Contact
+Created by [@unfinished](https://www.unfinishedd.nl)  
+Created by [@KaanSecen](https://www.kaansecen.nl)  
+
+- feel free to contact us!
+
+This project is open source and available under the Take a Break Sensor License.

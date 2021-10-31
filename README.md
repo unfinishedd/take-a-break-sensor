@@ -1,4 +1,4 @@
-<br>  
+</br>  
 # The Take a Break Sensor - Micro:bit Radio Sensor
 
 ## Table of contents

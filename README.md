@@ -1,5 +1,5 @@
    
-
+   
 # The Take a Break Sensor - Micro:bit Radio Sensor
 
 ## Table of contents
@@ -12,19 +12,18 @@
 * [Contact](#contact)
 
 ## General info
-The Take a Break Sensor is the bracelet which brings taking a break to a whole nother level.  
+The Take a Break Sensor is the bracelet that brings taking a break to a whole nother level.  
   
 We created this project with the intent of solving a problem.  
 The problem where workers behind their desks could not be able to work at their full potential because of them sitting behind their desks all day.
 
-The way we solved this problem is by using the radio feature within the micro:bit's to unite the two micro:bit's together to form an connection.
-With that connection we made sure that the timing and such were
-for a perfect amount of break time and for a more efficient work time.
+The way we solved this problem is by using the radio feature within the micro:bit's to unite the two micro:bit's together to form a connection.
+With that connection, we made sure that the timing was made exactly at the right moment with no errors. 
+So it is ready to use for u and your colleagues.
 
-    -Provide general information about your project here.
-    -What problem does it (intend to) solve?
-    -What is the purpose of your project?
-    -Why did you undertake it?
+We came up with this idea because we had heard some news on a subject on what the effects were if you sat too long in your chair.  
+So we started to think of ideas on how to make sure that was not going to happen again and also make sure for a perfect amount of break time which could all lead to a more efficient work time. 
+
 
 
 ## Technologies Used
@@ -34,9 +33,10 @@ Project is created with:
 
 ## Features
 List the ready features here:
+- Exact amount of time before having to walk around.
 - Exact amount of work time.
 - Exact amount of break time.
-- Exact amount of time before having to walk around.
+
 
 ## Setup
 To run this project, you are going to need two Micro:bit V1 or Micro:bit V2's (combinations are compatible):
@@ -44,7 +44,7 @@ To run this project, you are going to need two Micro:bit V1 or Micro:bit V2's (c
 ```
 1 - Connect both of them to your computer.
 2 - Download the Project.
-3 - Open the microbit map on your file file explorer (you can find it at devices and drives).
+3 - Open the microbit map on your file explorer (you can find it at devices and drives).
 4 - Put the KAANMIRCOBIT.py onto whichever microbit you'd like to become the sender.
 5 - Put the SAMMICROBIT.py onto the other microbit to become the receiver.
 6 - You are now ready to use the product.

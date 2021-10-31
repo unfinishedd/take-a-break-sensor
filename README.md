@@ -1,4 +1,4 @@
-  
+   
 # The Take a Break Sensor - Micro:bit Radio Sensor
 
 ## Table of contents
@@ -6,7 +6,7 @@
 * [Technologies](#technologies-used)
 * [Features](#features)
 * [Setup](#setup)
-* [How does the microbit radio work?](#how-does-the-micro:bit-radio-work?)
+* [How does the microbit radio work?](#how-does-the-microbit-radio-work?)
 * [Contact](#contact)
 
 ## General info

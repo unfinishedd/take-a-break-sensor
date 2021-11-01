@@ -30,7 +30,7 @@ def pairing():
         sleep(500)
         pairing = radio.receive()
         if pairing == 'working':
-            radio.send('tyfus')
+            radio.send('break')
             paired()
             break
 

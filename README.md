@@ -2,6 +2,8 @@
    
 # The Take a Break Sensor - Micro:bit Radio Sensor
 
+<img src="voorbeeld.jpg" />
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies-used)
